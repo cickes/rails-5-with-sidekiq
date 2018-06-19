@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "rails-5-with-sidekiq",
   "private": true,
   "dependencies": {}
 }
